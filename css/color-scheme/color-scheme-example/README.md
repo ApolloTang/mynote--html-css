@@ -1,7 +1,6 @@
 # CSS color-scheme property
 
-The color-scheme css variable let you change theme without writing any css.
-See: https://youtu.be/nQzRTsjBXfQ
+The color-scheme css variable lets you change the theme without writing any css.  See: https://youtu.be/nQzRTsjBXfQ
 
 ```html
   <style>
